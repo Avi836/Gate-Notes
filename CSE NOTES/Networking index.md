@@ -1,4 +1,4 @@
-![image1](Screenshot 2024-01-04 at 6.16.16 PM.png)
+![image1](CSE NOTES/Screenshot 2024-01-04 at 6.16.16 PM.png)
 
 # Goals of Computer Networking
 1. Facilitating Communication
