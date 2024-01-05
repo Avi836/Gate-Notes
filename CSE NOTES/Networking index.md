@@ -1,4 +1,4 @@
-![image1](Avi836/GATE NOTES/CSE NOTES/Screenshot 2024-01-04 at 6.16.16 PM.png?raw=true)
+![image1](https://github.com/Avi836/Gate-Notes/blob/main/CSE%20NOTES/Screenshot%202024-01-04%20at%206.16.16%20PM.png)
 
 # Goals of Computer Networking
 1. Facilitating Communication
