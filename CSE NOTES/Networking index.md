@@ -13,7 +13,7 @@
 4. **Transmission Medium:**
 5. **Protocol:** syntax, semantics, timing, De facto, De jure
 
-![[Screenshot 2024-01-04 at 6.31.58 PM.png]]
+![image2](https://github.com/Avi836/Gate-Notes/blob/main/CSE%20NOTES/Screenshot%202024-01-04%20at%206.31.58%20PM.png)
 
 ---
 # Transmission Modes
